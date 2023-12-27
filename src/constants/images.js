@@ -11,7 +11,8 @@ import redux from '../assets/redux.png';
 import sass from '../assets/sass.png';
 import typescript from '../assets/typescript.png';
 import next from '../assets/next.png';
-
+import shop from '../assets/shop.jpg'
+import shop2 from '../assets/shop2.jpg'
 import about01 from '../assets/about01.png';
 import about02 from '../assets/about02.png';
 import about03 from '../assets/about03.png';
@@ -24,7 +25,9 @@ import adidas from '../assets/adidas.png';
 import amazon from '../assets/amazon.png';
 
 import nb from '../assets/nb.png';
-
+import jack from '../assets/jack.jpeg'
+import sara from '../assets/sara.jpeg'
+import spotify from '../assets/spotify.png'
 
 export default {
   email,
@@ -32,6 +35,10 @@ export default {
   api,
   css,
   git,
+  shop,
+  shop2,
+  sara,
+  jack,
   html,
   javascript,
   python,
@@ -49,6 +56,7 @@ export default {
   adidas,
   amazon,
   nb,
+  spotify,
 
   
 };
