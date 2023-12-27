@@ -13,21 +13,22 @@ const Work = () => {
   const myData = [
     {
       title: 'E-commerce Website ',
-      description: "A men's, women's and children's clothing store",
+      description: "Responsive men's, women's and children's clothing store. Created by React js and css",
       tags: ['React JS'],
       img: images.shop,
-      projectLink: 'link_to_project_1',
-      codeLink: 'link_to_code_1',
+      projectLink: 'http://shop-ecommerce.surge.sh',
+      codeLink: 'https://github.com/3liqm/shop-ecommerce.git',
     },
     {
       title: 'E-commerce Website',
-      description: 'Online store with recalled products from API',
+      description: 'Responsive online store with recalled products from API. Created by React js and Tailwind css',
       tags: ['React JS'],
       img: images.shop2,
-      projectLink: 'link_to_project_2',
-      codeLink: 'link_to_code_2',
+      projectLink: 'http://shop-react.surge.sh',
+      codeLink: 'https://github.com/3liqm/react-shop.git',
     },
   ];
+
 
   // تعيين المشاريع في حالة البداية
   useState(() => {
