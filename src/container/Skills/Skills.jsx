@@ -9,16 +9,16 @@ const Skills = () => {
   const [skills, setSkills] = useState([]);
 
   const fakeSkillsData = [
-    { name: "Skill 1", bgColor: "#color_code", icon: images.css },
-    { name: "Skill 1", bgColor: "#color_code", icon: images.html },
-    { name: "Skill 1", bgColor: "#color_code", icon: images.javascript },
-    { name: "Skill 1", bgColor: "#color_code", icon: images.next },
-    { name: "Skill 1", bgColor: "#color_code", icon: images.react },
-    { name: "Skill 1", bgColor: "#color_code", icon: images.redux },
-    { name: "Skill 1", bgColor: "#color_code", icon: images.sass },
-    { name: "Skill 1", bgColor: "#color_code", icon: images.typescript },
-    { name: "Skill 1", bgColor: "#color_code", icon: images.api },
-    { name: "Skill 1", bgColor: "#color_code", icon: images.git },
+    { name: "", bgColor: "#color_code", icon: images.css },
+    { name: "", bgColor: "#color_code", icon: images.html },
+    { name: "", bgColor: "#color_code", icon: images.javascript },
+    { name: "", bgColor: "#color_code", icon: images.next },
+    { name: "", bgColor: "#color_code", icon: images.react },
+    { name: "", bgColor: "#color_code", icon: images.redux },
+    { name: "", bgColor: "#color_code", icon: images.sass },
+    { name: "", bgColor: "#color_code", icon: images.typescript },
+    { name: "", bgColor: "#color_code", icon: images.api },
+    { name: "", bgColor: "#color_code", icon: images.git },
   ];
 
   const fakeExperiencesData = [
