@@ -7,7 +7,7 @@ import './Work.scss';
 
 const Work = () => {
   const [filterWork, setFilterWork] = useState([]);
-  const [activeFilter, setActiveFilter] = useState('All'); // تعيين "All" كقيمة افتراضية
+  const [activeFilter, setActiveFilter] = useState('All'); 
   const [animateCard, setAnimateCard] = useState({ y: 0, opacity: 1 });
 
   const myData = [
