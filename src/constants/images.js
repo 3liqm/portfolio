@@ -13,6 +13,7 @@ import typescript from '../assets/typescript.png';
 import next from '../assets/next.png';
 import shop from '../assets/shop.jpg'
 import shop2 from '../assets/shop2.jpg'
+import shop3 from '../assets/shop3.jpg'
 import about01 from '../assets/about01.png';
 import about02 from '../assets/about02.png';
 import about03 from '../assets/about03.png';
@@ -37,6 +38,7 @@ export default {
   git,
   shop,
   shop2,
+  shop3,
   sara,
   jack,
   html,
