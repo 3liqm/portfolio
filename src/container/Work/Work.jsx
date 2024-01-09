@@ -27,10 +27,17 @@ const Work = () => {
       projectLink: 'http://shop-react.surge.sh',
       codeLink: 'https://github.com/3liqm/react-shop.git',
     },
+        {
+      title: 'Online Shop Website',
+      description: 'Responsive online shop with recalled products from API. Created by Next js and css',
+      tags: ['Next JS'],
+      img: images.shop3,
+      projectLink: 'https://next-js-shop-xi.vercel.app/',
+      codeLink: 'https://github.com/3liqm/next-js-shop.git',
+    },
   ];
 
 
-  // تعيين المشاريع في حالة البداية
   useState(() => {
     setFilterWork(myData);
   }, []);
