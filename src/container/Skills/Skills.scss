@@ -3,7 +3,9 @@
     width: 100%;
     flex-direction: column;
   }
-  
+  .head-text span{
+      color:  var(--secondary-color);
+  }
   .app__skills-container {
     width: 80%;
     margin-top: 3rem;
